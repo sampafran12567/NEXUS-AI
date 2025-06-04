@@ -92,14 +92,14 @@
       "required":true
       
     },
-    "OWNER_NAME":
+    "OWNER_NAME":vanilla
     {
     
     "desc": "Your Name",
     "required": false,
     "value": "NEXUS-AI"
   },
-    "NUMERO_OWNER":
+    "NUMERO_OWNER":260779012715
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
